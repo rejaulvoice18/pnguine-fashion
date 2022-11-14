@@ -1,0 +1,50 @@
+.penguin-nav img{
+    width:220px;
+}
+.btn-slider{
+    background-color: #A4BC46;
+}
+.bg-header{
+    background-color: #FFFBF0;
+}
+.header-title{
+    color:#FABE4C;
+    text-transform: uppercase;
+}
+.buy-icon{
+    width:28px;
+    margin-right:6px;
+}
+.single-card-img{
+    height:300px;
+    background-color: #F1F1F1;
+    padding: 15px 40px;;
+    border-radius:10px;
+}
+.single-card{
+    border:none;
+    box-shadow:0.2px 0.2px 1px  lightgrey;
+    padding:15px;
+    border-radius:10px;
+}
+.single-card-bottom{
+    border:none;
+    background-color:white;
+}
+.main-background{
+    background-color: #E5E5E5;
+}
+.single-card-footer{
+    border:none;
+    box-shadow:0.2px 0.2px 2px  lightgrey;
+    padding:10px;
+}
+.single-card-footer img{
+    width:70px;
+}
+.single-card-footer .card-title{
+    font-size:12px;
+}
+.single-card-footer .card-text{
+    font-size: 10px;
+}
